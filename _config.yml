@@ -68,13 +68,6 @@ collections:
 # BUILD SETTINGS
 markdown: kramdown
 
-kramdown:
-  input: GFM
-  use_coderay: true
-
-  coderay:
-    coderay_line_numbers: ''
-    coderay_css: class
 highlighter: pygments
 sass:
   sass_dir: _sass
