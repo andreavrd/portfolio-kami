@@ -75,7 +75,7 @@ kramdown:
   coderay:
     coderay_line_numbers: ''
     coderay_css: class
-highlighter: pgyments
+highlighter: pygments
 sass:
   sass_dir: _sass
   style: :compressed
