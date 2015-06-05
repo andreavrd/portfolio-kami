@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/portfolio-kami" # the subpath of your site, e.g. /blog/
-url: "http://bloc.github.io/" # the base hostname & protocol for your site
+url: "http://madebymunsters.github.io/" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
@@ -24,7 +24,7 @@ theme:
   dribbble: 
   facebook: "joeykirk"
   flickr:
-  github: "madebymunsters/Lannister"
+  github: "madebymunsters/portfolio-kami"
   google_plus:
   instagram: 
   linkedin:  # Full URL
